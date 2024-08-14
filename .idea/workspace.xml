@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e041ab7-7cb3-4f44-bc1e-2712b082e7c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4e041ab7-7cb3-4f44-bc1e-2712b082e7c2" name="Changes" comment="Modify gitignore">
+      <change afterPath="$PROJECT_DIR$/src/Exercicios3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios3/Tabelas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios1/ExibirMultiplos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios1/ExibirMultiplos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios1/ExibirNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios1/ExibirNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios1/SomaNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios1/SomaNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios2/VariavelX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios2/VariavelX.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +27,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "GuilhermeHalter"
+  }
+}]]></component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="d6a8598f-90b4-4e31-bc9f-0f0acfee9fbb" />
   </component>
@@ -53,6 +56,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ExibirMultiplos.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.SomaNumeros.executor": "Run",
     "Application.VariavelX.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -63,6 +67,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/anaha/IdeaProjects/ExerciciosFaculdade/src/Exercicios3/Main.java",
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
@@ -83,8 +88,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1723635746153</updated>
-      <workItem from="1723635747201" duration="1255000" />
+      <workItem from="1723635747201" duration="2940000" />
     </task>
+    <task id="LOCAL-00001" summary="Modify gitignore">
+      <option name="closed" value="true" />
+      <created>1723637130052</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723637130052</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,5 +129,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Modify gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modify gitignore" />
   </component>
 </project>
