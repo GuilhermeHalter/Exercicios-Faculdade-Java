@@ -2,12 +2,10 @@ package Exercicios3;
 
 public class Main {
     public static void main(String[] args) {
-        int media;
 
-        Tabelas tabela = new Tabelas(13500, 23400,19000);
-        media = (tabela.janeiro + tabela.fevereiro + tabela.marco)/3;
+        Tabelas tabela = new Tabelas();
 
-        System.out.println(tabela.janeiro + tabela.fevereiro + tabela.marco);
-        System.out.println(media);
+        System.out.println(tabela.total(13500, 23400,19000));
+        System.out.println(tabela.mediaGastos(13500, 23400,19000));
     }
 }

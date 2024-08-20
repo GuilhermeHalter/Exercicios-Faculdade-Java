@@ -5,9 +5,15 @@ public class Tabelas {
     int fevereiro;
     int marco;
 
-    public Tabelas (int janeiro, int fevereiro, int marco) {
-        this.janeiro = janeiro;
-        this.fevereiro = fevereiro;
-        this.marco = marco;
+    public Tabelas () {
+
+    }
+
+    public int total(int janeiro, int fevereiro, int marco){
+        return janeiro + fevereiro + marco;
+    }
+
+    public int mediaGastos(int janeiro, int fevereiro, int marco){
+        return (janeiro + fevereiro + marco)/3;
     }
 }
