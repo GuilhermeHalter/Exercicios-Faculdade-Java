@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e041ab7-7cb3-4f44-bc1e-2712b082e7c2" name="Changes" comment="">
+    <list default="true" id="4e041ab7-7cb3-4f44-bc1e-2712b082e7c2" name="Changes" comment="Refactoring Exercise 3">
+      <change afterPath="$PROJECT_DIR$/src/Exercicios4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios4/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios5/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios3/Tabelas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicios3/Tabelas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,25 +56,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.ExibirMultiplos.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SomaNumeros.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VariavelX.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/anaha/IdeaProjects/ExerciciosFaculdade/src/Exercicios3/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ExibirMultiplos.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SomaNumeros.executor": "Run",
+    "Application.VariavelX.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/anaha/IdeaProjects/ExerciciosFaculdade/src/Exercicios3/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -94,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723635746153</updated>
       <workItem from="1723635747201" duration="2940000" />
-      <workItem from="1724191644334" duration="890000" />
+      <workItem from="1724191644334" duration="6180000" />
     </task>
     <task id="LOCAL-00001" summary="Modify gitignore">
       <option name="closed" value="true" />
@@ -112,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723640275632</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Refactoring Exercise 3">
+      <option name="closed" value="true" />
+      <created>1724192687615</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1724192687615</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modify gitignore" />
     <MESSAGE value="Done Exercise 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Exercise 3" />
+    <MESSAGE value="Refactoring Exercise 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring Exercise 3" />
   </component>
 </project>
