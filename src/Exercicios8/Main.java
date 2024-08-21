@@ -11,7 +11,17 @@ public class Main {
         String tipo = scanner.nextLine();
 
         reserva1.setReservista(tipo);
-        reserva1.validacao();
+        // reserva1.validacao();
+
+        if(reserva1.getReservista().equalsIgnoreCase("estudante")){
+             reserva1.pessoa();
+        } else if (reserva1.getReservista().equalsIgnoreCase("professor")) {
+            reserva1.professor();
+        } else if (reserva1.getReservista().equalsIgnoreCase("comunidade")) {
+            reserva1.comunidade();
+        }else {
+            System.out.println("Nao pode reservar livros");
+        }
 
     }
 }

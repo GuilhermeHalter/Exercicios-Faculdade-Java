@@ -28,7 +28,7 @@ public class Reserva {
 
     /*-----Metodos-----*/
 
-    public void validacao() {
+    /*public void validacao() {
         if(getReservista().equalsIgnoreCase("estudante")){
             setTempoReserva(5);
             System.out.println("O tempo de reserva dele eh de " + getTempoReserva() + " dias");
@@ -41,6 +41,20 @@ public class Reserva {
         }else {
             System.out.println("Nao pode reservar livros");
         }
+    }*/
+
+    public void pessoa(){
+        setTempoReserva(5);
+        System.out.println("O tempo de reserva dele eh de " + getTempoReserva() + " dias");
     }
 
+    public void professor(){
+        setTempoReserva(3);
+        System.out.println("O tempo de reserva dele eh de " + getTempoReserva() + " dias");
+    }
+
+    public void comunidade(){
+        setTempoReserva(4);
+        System.out.println("O tempo de reserva dele eh de " + getTempoReserva() + " dias");
+    }
 }
