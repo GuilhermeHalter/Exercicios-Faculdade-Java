@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e041ab7-7cb3-4f44-bc1e-2712b082e7c2" name="Changes" comment="Refactoring Exercise 3">
-      <change afterPath="$PROJECT_DIR$/src/Exercicios4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios4/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios5/Produto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios6/Main.java" afterDir="false" />
+    <list default="true" id="4e041ab7-7cb3-4f44-bc1e-2712b082e7c2" name="Changes" comment="Done Exercise 04, 05 and 06">
+      <change afterPath="$PROJECT_DIR$/src/Exercicios7/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicios7/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1723635746153</updated>
       <workItem from="1723635747201" duration="2940000" />
-      <workItem from="1724191644334" duration="6180000" />
+      <workItem from="1724191644334" duration="9105000" />
     </task>
     <task id="LOCAL-00001" summary="Modify gitignore">
       <option name="closed" value="true" />
@@ -123,7 +120,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724192687615</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Done Exercise 04, 05 and 06">
+      <option name="closed" value="true" />
+      <created>1724199061754</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1724199061754</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,6 +164,7 @@
     <MESSAGE value="Modify gitignore" />
     <MESSAGE value="Done Exercise 3" />
     <MESSAGE value="Refactoring Exercise 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring Exercise 3" />
+    <MESSAGE value="Done Exercise 04, 05 and 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Exercise 04, 05 and 06" />
   </component>
 </project>
