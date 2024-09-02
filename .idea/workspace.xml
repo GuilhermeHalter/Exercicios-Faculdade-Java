@@ -4,38 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e041ab7-7cb3-4f44-bc1e-2712b082e7c2" name="Changes" comment="Done Exercise 09">
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exemplo1/Professor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exemplo1/ProfessorHorista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exemplo1/ProfessorIntegral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio01/ProfessorHorista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio01/ProfessorMensalista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio01/Professores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio02/Clientes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio02/Governo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio02/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio02/PessoaFisica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aula04/Exercicio02/PessoaJuridica.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExerciciosFaculdade.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciciosFaculdade.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios1/ExibirMultiplos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Exercicios1/ExibirMultiplos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios1/ExibirNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Exercicios1/ExibirNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios1/SomaNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Exercicios1/SomaNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios2/VariavelX.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Exercicios2/VariavelX.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Exercicios3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios3/Tabelas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula01/Exercicios3/Tabelas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios4/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios4/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios5/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios5/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios5/Produto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios6/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios7/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios7/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios7/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios7/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios8/Reserva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios8/Reserva.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios9/Funcionario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios9/Funcionario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercicios9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula03/Exercicios9/Main.java" afterDir="false" />
+    <list default="true" id="4e041ab7-7cb3-4f44-bc1e-2712b082e7c2" name="Changes" comment="Done Exercise 02 - aula 04">
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio01/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula04/Exercicio01/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aula04/Exercicio01/ProfessorMensalista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aula04/Exercicio01/ProfessorMensalista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +115,7 @@
       <workItem from="1724796851567" duration="4062000" />
       <workItem from="1724859351750" duration="5151000" />
       <workItem from="1725038067165" duration="74000" />
-      <workItem from="1725288232823" duration="2891000" />
+      <workItem from="1725288232823" duration="3202000" />
     </task>
     <task id="LOCAL-00001" summary="Modify gitignore">
       <option name="closed" value="true" />
@@ -218,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724451762928</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Done Exercise 02 - aula 04">
+      <option name="closed" value="true" />
+      <created>1725294884699</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1725294884699</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +238,7 @@
     <MESSAGE value="Done Exercise 8" />
     <MESSAGE value="Refactoring Exercise 8" />
     <MESSAGE value="Done Exercise 09" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done Exercise 09" />
+    <MESSAGE value="Done Exercise 02 - aula 04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done Exercise 02 - aula 04" />
   </component>
 </project>

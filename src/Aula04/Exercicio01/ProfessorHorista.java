@@ -7,9 +7,7 @@ public class ProfessorHorista extends Professores {
     }
 
     public void calcularSalario() {
-        if (getHoraTrabalho() < 40){
             System.out.println(getHoraTrabalho() * getValorHoraTitulacao());
-        }
     }
 
 }
